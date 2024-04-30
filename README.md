@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loxiasblack&label=Profile%20views&color=0e75b6&style=flat" alt="loxiasblack" /> </p>
 
-<p align="left"> <a href="https://camo.githubusercontent.com/9c1a1939a5fe670fc434a5948f3aa959068c24d3e6b575bbe4112ab60c427d11/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966"><img src="https://github-profile-trophy.vercel.app/?username=loxiasblack" alt="loxiasblack" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loxiasblack" alt="loxiasblack" /></a> </p>
+
+<p align="left"> <img src="https://camo.githubusercontent.com/9c1a1939a5fe670fc434a5948f3aa959068c24d3e6b575bbe4112ab60c427d11/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966" alt="loxiasblack" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/loxiasblack](https://github.com/loxiasblack)
 
