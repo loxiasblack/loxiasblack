@@ -82,12 +82,10 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
 
 <!---->
 
-<h1 align="center">Hi 👋, I'm ilias</h1>
-<h3 align="center">A passionate developer from Morrocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loxiasblack&label=Profile%20views&color=0e75b6&style=flat" alt="loxiasblack" /> </p>
 
